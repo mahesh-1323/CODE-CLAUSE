@@ -1,6 +1,6 @@
 """
-Date: 18 january 2021
-Author: Sanam kandar
+Date: 28 December 2022
+Author: Srirama Mahesh
 Project: Student library management system
 """
 
